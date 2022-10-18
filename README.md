@@ -1,7 +1,7 @@
-<h2 align="centre">Kyura Music Player</h2>
+<h2 align="centre">Russia Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/e42317e82b1c9e8c60c2a.jpg">
+  <img src="https://telegra.ph/file/2d1372d13b7b8f496b0d1.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
